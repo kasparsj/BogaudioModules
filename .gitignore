@@ -43,3 +43,5 @@ scatter.*
 lldb.cmd
 !test/*
 doc/module_screenshots/
+
+.idea
